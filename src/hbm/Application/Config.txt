@@ -1,0 +1,400 @@
+﻿{
+	"0" : {
+		"playform_name" : "debug",
+		"login_servers" : ["Developer", "Developer_Local", "Test", "Thor", "Ares", "Developer_Thor", "Developer_Ares"],
+		"app_group_url" : "http://lnd-game.ru",
+		"enable_payments" : true,
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "512",
+			"token" : "8b961d3094b67fad57d55aa7f62e2e9cf963ced2"
+		}
+
+	},
+
+	"1" : {
+		"playform_name" : "web",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "http://lnd-game.ru",
+		"app_group_url" : "http://lnd-game.ru",
+		"app_private_key" : "",
+		"social_server_url" : "http://178.205.142.3:81",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+		}
+	},
+
+	"2" : {
+		"playform_name" : "standalone",
+		"login_servers" : [ "Thor_Standalone", "Ares_Standalone" ],
+		"app_group_url" : "http://lnd-game2.ru",
+		"app_private_key" : "",
+		"social_server_url" : "http://",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		}
+	},
+
+	"3" : {
+		"playform_name" : "vkontakte",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "https://vk.com/app7643011",
+		"app_group_url" : "http://vk.com/ltw_game",
+		"app_private_key" : "",
+		"social_server_url" : "https://ltw-game.ru/",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+		"social_app_id" : "6321778",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+			
+		}
+	},
+
+	"4" : {
+		"playform_name" : "mail.ru",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "https://my.mail.ru/apps/763059",
+		"app_group_url" : "https://my.mail.ru/community/lorien_game",
+		"app_private_key" : "5790189b32c6613049f353cfff0a209c",
+		"social_server_url" : "https://tlod.ru/lnd/",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+		"social_app_id" : "763059",
+
+		"resolution" : {
+			"width" : 760,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+		}
+	},
+
+	"5" : {
+		"playform_name" : "OK",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "https://ok.ru/game/1274261760",
+		"app_group_url" : "https://ok.ru/group/55397306663008",
+		"app_private_key" : "",
+		"social_server_url" : "https://tlod.ru/lnd/",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+		"social_app_id" : "CBACLEPMEBABABABA",
+
+		"resolution" : {
+			"width" : 760,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+		}
+	},
+
+	"6" : {
+		"playform_name" : "test",
+		"login_servers" : ["Test"],
+		"app_group_url" : "http://lnd-game3.ru",
+		"enable_payments" : false,
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "20065",
+			"token" : "fceaba6cf3c39f65554264f63fb34a0c3291e43a"
+		}
+	},
+
+	"7" : {
+		"playform_name" : "fotostrana",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "https://fotostrana.ru/app/landoflorien/",
+		"app_group_url" : "https://fotostrana.ru/public/350320",
+		"app_private_key" : "",
+		"social_server_url" : "https://tlod.ru/lnd/",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-131079263-1",
+		"social_app_id" : "landoflorien",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+		}
+	},
+
+	"8" : {
+		"playform_name" : "facebook",
+		"login_servers" : ["Thor", "Ares"],
+		"app_url" : "",
+		"app_group_url" : "",
+		"app_private_key" : "",
+		"social_server_url" : "http://94.250.248.168:84",
+		"enable_payments" : true,
+		"ga_tracker" : "UA-24742899-2",
+		"social_app_id" : "176994288982661",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "510",
+			"token" : "6ebb90efa6cb9d57ec8e57d9e3b32280cdacf1cc"
+		}
+	},
+
+	"11" : {
+		"playform_name" : "web_test",
+		"login_servers" : ["Developer"],
+		"app_url" : "http://lnd-game4.ru",
+		"app_group_url" : "http://lnd-game44.ru",
+		"app_private_key" : "",
+		"social_server_url" : "http://192.168.1.154:19993",
+		"enable_payments" : true,
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		}
+	},
+
+	"13" : {
+		"playform_name" : "vkontakte_test",
+		"login_servers" : ["Developer"],
+		"app_url" : "http://vk.com/app3521019",
+		"app_group_url" : "http://vk.com/lndclub",
+		"app_private_key" : "",
+		"social_server_url" : "http://127.0.0.1:81",
+		"enable_payments" : true,
+		"social_app_id" : "3521019",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		},
+
+		"statistic" : {
+			"app_id" : "512",
+			"token" : "8b961d3094b67fad57d55aa7f62e2e9cf963ced2"
+		}
+	},
+
+	"14" : {
+		"playform_name" : "mail.ru test",
+		"login_servers" : ["Developer"],
+		"app_url" : "http://my.mail.ru/apps/704499",
+		"app_group_url" : "http://my.mail.ru/community/light-n-darkness",
+		"app_private_key" : "a393d16feb29213a7a0fce1cae20badc",
+		"social_server_url" : "http://192.168.1.154:19991",
+		"enable_payments" : true,
+		"social_app_id" : "704499",
+
+		"resolution" : {
+			"width" : 760,
+			"height" : 768
+		}
+	},
+
+	"15" : {
+		"playform_name" : "OK_test",
+		"login_servers" : ["Developer"],
+		"app_url" : "http://www.odnoklassniki.ru/games/test_lnd",
+		"app_group_url" : "",
+		"app_private_key" : "",
+		"social_server_url" : "http://192.168.1.154:19996",
+		"enable_payments" : true,
+		"social_app_id" : "CBAKCDOKABABABABA",
+
+		"resolution" : {
+			"width" : 760,
+			"height" : 768
+		}
+	},
+
+	"17" : {
+		"playform_name" : "fotostrana_test",
+		"login_servers" : ["Developer"],
+		"app_url" : "http://fotostrana.ru/app/lndgametest/",
+		"app_group_url" : "http://fotostrana.ru/community/52985",
+		"app_private_key" : "",
+		"social_server_url" : "http://192.168.1.154:19998",
+		"enable_payments" : true,
+		"social_app_id" : "lndgametest",
+
+		"resolution" : {
+			"width" : 760,
+			"height" : 768
+		}
+	},
+
+	"18" : {
+		"playform_name" : "facebook_test",
+		"login_servers" : ["Developer"],
+		"app_url" : "",
+		"app_group_url" : "",
+		"app_private_key" : "",
+		"social_server_url" : "http://192.168.1.154:19992",
+		"enable_payments" : true,
+		"social_app_id" : "642480289100385",
+
+		"resolution" : {
+			"width" : 800,
+			"height" : 768
+		}
+	},
+
+	"content_providers" : {
+		"production" : {
+			"priority" : { "0" : 1 },
+			"host" : "https://lnd-game.ru/"
+		},
+		"productionpve" : {
+			"priority" : { "0" : 1 },
+			"host" : "http://localhost/lnd/"
+		},
+		"developer" : {
+			"priority" : { "0" : 1 },
+			"host" : "http://178.205.142.3/lnd/"
+		},
+        "local" : {
+            "priority" : { "0" : 1 },
+            "host" : "http://localhost:7777/Darkness/"
+        },
+		"standalone" : {
+			"priority" : { "0" : 1 },
+			"host" : "https://localhost/lnd/"
+		},
+		"test" : {
+			"priority" : { "0" : 1 },
+			"host" : "http://localhost/lnd/"
+		}
+
+	},
+
+	"login_servers" : {
+		"Thor" : {
+				"address" : "178.205.143.150",
+				"port" : 2973,
+				"name" : "Thor (PvP)",
+				"game" : "darkness01",
+				"gameId" : 0,
+				"content" : ["production"],
+				"description" : ""
+		},
+		"Ares" : {
+				"address" : "178.205.142.3",
+				"port" : 2973,
+				"name" : "Ares (PvE)",
+				"game" : "darkness02",
+				"gameId" : 1,
+				"content" : ["productionpve"],
+				"description" : ""
+		},
+		"Thor_Standalone" : {
+				"address" : "212.116.102.155",
+				"port" : 2973,
+				"name" : " Standalone Thor (PvP)",
+				"game" : "darkness01",
+				"gameId" : 0,
+				"content" : ["standalone"],
+				"description" : "<p>Игровой мир созданный для настоящих бойцов готовых к сражениям в любую минуту. Играть здесь можно как и на обычном мире, с той лишь разницей, что напасть на игрока можно не спрашивая на то разрешения. В этом игровом мире собираются наиболее опытные игроки, желающие сражаться как против монстров и опасных созданий, так и против других игроков, населяющих этот мир.</p><h2>Плюсы:</h2><ul><li>Увеличенные x3 рейты на прокачку!</li><li>Игра в таком мире необычайно опасна и захватывающая. Вас на каждом углу поджидает опасность!</li><li>Ваши боевые навыки могут оценить не только игроки - союзники, но и игроки - противники.</li></ul><h2>Минусы:</h2><ul><li>На боевых территориях сложнее выполнять задания и убивать монстров, поскольку находитесь в опасной близости с враждебными вам игроками.</li></ul>"
+		},
+		"Ares_Standalone" : {
+				"address" : "212.116.102.156",
+				"port" : 2973,
+				"name" : " Standalone Ares (PvE)",
+				"game" : "darkness02",
+				"gameId" : 1,
+				"content" : ["standalone"],
+				"description" : "<p>Игровой мир, в котором установлено перемирие между населяющими его игроками. Напасть на другого игрока тут можно только посредству дуэли или специального состязания, по взаимной договоренности. В этом игровом мире собираются игроки, желающие совместно сражаться против монстров и опасных созданий этого мира. Впрочем, игроки тут могут устроить и состязание между собой, договорившись о дуэли.</p><h2>Плюсы:</h2><ul><li>Увеличенные x2 рейты на прокачку!</li><li>Вы можете выполнять задания и вступать в схватку с монстрами, не опасаясь других игроков.</li><li>Можно помогать игрокам противоборствующей стороны в убийстве нейтральных монстров.</li></ul><h2>Минусы:</h2><ul><li>Игра для вас может быть менее захватывающей, если вы уверены, что никто из игроков не сможет на вас напасть.</li><li>Труднее найти соперника в бою с другими игроками, не каждый игрок подтвердит ваш вызов на дуэльный бой.</li></ul>"
+		},
+		"Developer" : {
+				"address" : "178.205.142.3",
+				"port" : 2973,
+				"name" : "Developer",
+				"game" : "developer",
+				"gameId" : 0,
+				"debug" : true,
+				"content" : ["developer"],
+				"description" : "<p>Закрытый сервер для разработчиков</p>"
+		},
+        "Developer_Local" : {
+            "address" : "192.168.1.45",
+            "port" : 2973,
+            "name" : "Developer (local)",
+            "game" : "developer_local",
+            "gameId" : 0,
+            "debug" : true,
+            "content" : ["local"],
+            "description" : "<p>Закрытый сервер для разработчиков #2. Контент через localhost</p>"
+        },
+		"Developer_Thor" : {
+				"address" : "94.250.248.228",
+				"port" : 2973,
+				"name" : "Developer Thor (PvP)",
+				"game" : "developer_darkness01",
+				"gameId" : 0,
+				"content" : ["developer"],
+				"description" : "<p>Боевой сервер PvP. Контент через Developer</p>"
+		},
+		"Developer_Ares" : {
+				"address" : "37.230.117.56",
+				"port" : 2973,
+				"name" : "Developer Ares (PvE)",
+				"game" : "developer_darkness02",
+				"gameId" : 1,
+				"content" : ["developer"],
+				"description" : "<p>Боевой сервер PvE. Контент через Developer.</p>"
+		},
+		"Test" : {
+			"address" : "127.0.0.1",
+			"port" : 2973,
+			"name" : "Test",
+			"game" : "test",
+			"gameId" : 0,
+			"debug" : true,
+			"content" : ["test"],
+			"description" : "<p>Тестовый сервер</p>"
+		}
+	}
+}
+
+
